@@ -1,0 +1,9 @@
+{
+  "name": "AgroLife",
+  "description": "Revolutionary AI-powered crop monitoring and drone analysis platform for modern farmers.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation",
+    "microphone"
+  ]
+}
